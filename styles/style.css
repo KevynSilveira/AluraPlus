@@ -104,3 +104,25 @@ body{
 .conteiner_descricao{
     padding: 2em;
 }
+
+
+.dispositivos__lista{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+
+}
+
+.dispositivos{
+    text-align: center;
+}
+
+.dispositivos__titulo{
+    font-size: 48px;
+    color: var(--branco-principal);
+}
+
+.dispositivos__item{
+    font-size: 32px;
+    color: var(--branco-principal);
+}
